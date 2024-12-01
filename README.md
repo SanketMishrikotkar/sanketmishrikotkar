@@ -18,9 +18,9 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 ## 🛠️ Skill Set  
 
 ### Primary Skills  
-- **Business Intelligence:** Power BI, DAX, Data Modeling  
+- **Business Intelligence:** Power BI, DAX, Data Modeling, Data Visualization, Data Governence
 - **Data Analysis:** SQL (DDL/DML), Azure Databricks  
-- **Visualization Tools:** Power BI Desktop, Power BI Service, DAX Studio, Tabular Editor  
+- **Visualization Tools:** Power BI Desktop, Power BI Service, DAX Studio, Tabular Editor, Excel  
 
 ### Secondary Skills  
 - Power Automate, Power Apps, Python  
@@ -35,16 +35,33 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Primary Skills  
+- **Power BI** <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="20" height="20"/>  
+- **DAX** <img src="https://db0dce98.rocketcdn.me/en/files/2023/08/dax-power-bi.png" alt="DAX" width="40" height="20"/>  
+- **SQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="20" height="20"/>  
+- **Data Modeling** <img src="https://img.icons8.com/?size=100&id=9jbTZpdDmAB0&format=png&color=000000" alt="Data Modeling" width="20" height="20"/>  
+- **Data Analysis** <img src="https://img.icons8.com/?size=100&id=7kZSmEyroNI0&format=png&color=000000" alt="Data Analysis" width="20" height="20"/>  
+- **Azure Databricks** <img src="https://logowik.com/content/uploads/images/azure-databricks5940.jpg" alt="Azure Databricks" width="20" height="20"/>
 
-| Sr. No | Technology       | Icon                                                                                           |
-|--------|------------------|------------------------------------------------------------------------------------------------|
-| 1      | Python           | <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> |
-| 2      | Power BI         | <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power-bi" width="40" height="40"/></a> |
-| 3      | SQL              | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a> |
-| 4      | Azure            | <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="azure" width="40" height="40"/></a> |
-| 5      | Power Automate   | <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Power_Automate_logo.svg" alt="power-automate" width="40" height="40"/></a> |
+### Secondary Skills  
+- **Power Automate** <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" alt="Power Automate" width="20" height="20"/>  
+- **Power Apps** <img src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000" alt="Power Apps" width="20" height="20"/>  
+- **Python** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
 
+### Tools  
+- **Power BI Desktop** <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Desktop" width="20" height="20"/>  
+- **DAX Studio** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeE1jznQyB4UUlUtUuFbSJ333BAYmPQZH2oV9Z4-axIJP2KqHA-BsPpRaE_3dQqpAaX7U&usqp=CAU" alt="DAX Studio" width="20" height="20"/>  
+- **Tabular Editor** <img src="https://avatars.githubusercontent.com/u/30911111?v=4" alt="Tabular Editor" width="20" height="20"/>  
+- **Power BI Service** <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Service" width="20" height="20"/>  
+- **SSMS** <img src="https://miro.medium.com/v2/1*-hkzF9m5828c-UIaSQNUug.jpeg" alt="SSMS" width="20" height="20"/>  
+- **Excel** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVxTmB7RKfgAoRTrU36dhDHpbAsPrCQkf6Zs_MFfIrunhg-hRGTs5psju_52K3q4C1hvY&usqp=CAU" alt="Excel" width="20" height="20"/>
+
+### Data Sources Used in Projects  
+- **Azure** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="20"/>  
+- **Synapse** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZc2gcIoinDIir_cDFBxRXl7AGRKtOh99ob2195r7P5_r6MSvNR_Evly-Cuehm3w6GVgo&usqp=CAU" alt="Synapse" width="20" height="20"/>  
+- **SQL** <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="35" height="20"/>  
+- **Teradata** <img src="https://www.teradata.com/favicon.ico" alt="Teradata" width="20" height="20"/>  
+- **SharePoint** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYihwMLPYEUnpL35RMU6ysKsuzhHdqOXiZSXd2ene5JwzaFBTdpSj9-2WHyKAzlJBgof8&usqp=CAU" alt="SharePoint" width="20" height="20"/>
 
 
 ---
@@ -54,10 +71,16 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 ### **Software Engineer 1**  
 **MAQ Software** | Hyderabad, Telangana  
 *June 2022 – Present*  
-- Developed 7+ data models, converting raw data into actionable insights.  
-- Optimized 5+ dashboards, reducing size by 45% and refresh time by 60%.  
-- Designed interactive Power BI reports using advanced DAX features.  
-- Monitored 10+ KPIs with automated tracking, boosting efficiency by 85%.  
+- **Developed 7+ data models** in response to business requirements, converting raw data into actionable insights.
+- Identified and monitored **10+ KPIs** with clear objectives, leveraging automation for consistent tracking.
+- Provided **technical support and training** to empower teams in utilizing data analysis tools effectively.
+- Collaborated with business users, **gathering requests** to enhance existing BI reports and align with business needs.
+- Conducted data analytics and generated valuable insights to drive informed decision-making.
+- **Optimized over 5 models**, resulting in a **45% reduction** in Power BI dashboard **size** and a **60% decrease in refresh time**, boosting efficiency.
+- Created interactive and informative Power BI reports using advanced DAX features.
+- Utilized Power BI for seamless collaboration with diverse users and stakeholders on live data sources.
+- Achieved an **65% increase in business efficiency** within the first four months through data analysis and reporting skills.
+- Enhanced overall **decision-making by 35%** through the design and development of BI reports, delivering invaluable insights.
 
 ### **Associate Software Engineer**  
 **Accenture** | Pune, Maharashtra  
