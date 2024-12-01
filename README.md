@@ -3,7 +3,7 @@
 
 📧 mishrikotkarsanket@gmail.com  
 📞 +91–7798260374  
-🔗 [LinkedIn](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sanketmishrikotkar/)  
 
 ---
 
