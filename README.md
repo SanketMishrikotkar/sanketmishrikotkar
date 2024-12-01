@@ -43,13 +43,6 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 ### Currently Learning  
 - I’m currently learning **Azure technologies like Azure Synapse, Azure Data Factory**
 
-### Data Sources Used in Projects  
-- **Azure** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="20"/>  
-- **Synapse** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZc2gcIoinDIir_cDFBxRXl7AGRKtOh99ob2195r7P5_r6MSvNR_Evly-Cuehm3w6GVgo&usqp=CAU" alt="Synapse" width="20" height="20"/>  
-- **SQL** <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="35" height="20"/>  
-- **Teradata** <img src="https://www.teradata.com/favicon.ico" alt="Teradata" width="20" height="20"/>  
-- **SharePoint** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYihwMLPYEUnpL35RMU6ysKsuzhHdqOXiZSXd2ene5JwzaFBTdpSj9-2WHyKAzlJBgof8&usqp=CAU" alt="SharePoint" width="20" height="20"/>
-
 
 ---
 
@@ -69,6 +62,14 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 - Achieved an **65% increase in business efficiency** within the first four months through data analysis and reporting skills.
 - Enhanced overall **decision-making by 35%** through the design and development of BI reports, delivering invaluable insights.
 
+#### Data Sources Used in Projects  
+- **Azure** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="20"/>  
+- **Synapse** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZc2gcIoinDIir_cDFBxRXl7AGRKtOh99ob2195r7P5_r6MSvNR_Evly-Cuehm3w6GVgo&usqp=CAU" alt="Synapse" width="20" height="20"/>  
+- **SQL** <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="35" height="20"/>  
+- **Teradata** <img src="https://www.teradata.com/favicon.ico" alt="Teradata" width="20" height="20"/>  
+- **SharePoint** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYihwMLPYEUnpL35RMU6ysKsuzhHdqOXiZSXd2ene5JwzaFBTdpSj9-2WHyKAzlJBgof8&usqp=CAU" alt="SharePoint" width="20" height="20"/>
+
+
 ### **Associate Software Engineer**  
 **Accenture** | Pune, Maharashtra  
 *August 2021 – May 2022*  
@@ -76,7 +77,9 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 - Debugged code issues and tracked defects using JIRA and ALM.  
 - Enhanced testing workflows with custom scripts for efficiency.  
 
+
 ---
+
 
 ## 🏆 Achievements  
 - **KUDOS Award**: Recognized for exceptional contributions at MAQ Software.  
@@ -97,6 +100,19 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 ---
 
 ## 📂 Personal Projects  
-> *Coming Soon: Explore my hands-on projects in Power BI, data visualization, and Python. Check back for updates!*   
+> *Coming Soon: Explore my hands-on projects in Power BI, data visualization, and Python. Check back for updates!*
+
+> ## SQL Projects
+
+| **Sr. No.** | **Project Title**         | **Description**                                                                                 | **Skills Used**            | **GitHub Link**                        |
+|-------------|----------------------------|-----------------------------------------------------------------------------------------------|----------------------------|----------------------------------------|
+| 1           | **INDIA GENERAL ELECTIONS RESULT ANALYSIS 2024** | The India General Elections Result Analysis 2024 project aims to provide detailed insights into the election results using SQL and SSMS. By analysing the results at the state and constituency levels, the project offers comprehensive insights into seat allocation, voting patterns, and party performance. It involves querying, transforming, and analysing election data stored in relational databases to answer critical questions related to alliances, winning margins, and voting methods. The primary objective is to empower stakeholders, including political analysts, policymakers, and citizens, with data-driven insights into the electoral outcomes of 2024. | SQL, SSMS, Data Analysis         | [GitHub Repo](https://github.com/your-repo) |
+
+> ## Power BI Projects
+
+| **Sr. No.** | **Project Title**         | **Description**                                                                                 | **Skills Used**            | **GitHub Link**                        |
+|-------------|----------------------------|-----------------------------------------------------------------------------------------------|----------------------------|----------------------------------------|
+| 1           | **INDIA GENERAL ELECTIONS RESULT ANALYSIS 2024** | The India General Elections Result Analysis 2024 project aims to provide detailed insights into the election results using SQL and SSMS. By analysing the results at the state and constituency levels, the project offers comprehensive insights into seat allocation, voting patterns, and party performance. It involves querying, transforming, and analysing election data stored in relational databases to answer critical questions related to alliances, winning margins, and voting methods. The primary objective is to empower stakeholders, including political analysts, policymakers, and citizens, with data-driven insights into the electoral outcomes of 2024. | SQL, SSMS, Data Analysis         | [GitHub Repo](https://github.com/your-repo) |
+
 
 ---
