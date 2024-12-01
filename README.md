@@ -95,13 +95,6 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 ---
 
 ## 📂 Personal Projects  
-> *Coming Soon: Explore my hands-on projects in Power BI, data visualization, and Python. Check back for updates!*  
-
----
-
-## 📞 Contact Me  
-
-Ready to transform your data strategies? Let’s connect and create impactful solutions!  
-📧 mishrikotkarsanket@gmail.com | 📞 +91–7798260374  
+> *Coming Soon: Explore my hands-on projects in Power BI, data visualization, and Python. Check back for updates!*   
 
 ---
