@@ -1,5 +1,5 @@
 # Sanket Mishrikotkar  
-**Power BI Developer | Data Analyst**  
+**Power BI Developer | Data Analyst | Empowering Businesses with Actionable Insights | Expert in DAX, SQL & Data Visualization | Python | Azure | I help Organizations make Data-Driven Decisions**  
 
 📧 mishrikotkarsanket@gmail.com  
 📞 +91–7798260374  
@@ -20,7 +20,7 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 ### Primary Skills  
 - **Business Intelligence:** Power BI, DAX, Data Modeling  
 - **Data Analysis:** SQL (DDL/DML), Azure Databricks  
-- **Visualization Tools:** Power BI Desktop, Power BI Service, DAX Studio  
+- **Visualization Tools:** Power BI Desktop, Power BI Service, DAX Studio, Tabular Editor  
 
 ### Secondary Skills  
 - Power Automate, Power Apps, Python  
