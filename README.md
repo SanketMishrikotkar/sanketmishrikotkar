@@ -18,24 +18,6 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 ## 🛠️ Skill Set  
 
 ### Primary Skills  
-- **Business Intelligence:** Power BI, DAX, Data Modeling, Data Visualization, Data Governence
-- **Data Analysis:** SQL (DDL/DML), Azure Databricks  
-- **Visualization Tools:** Power BI Desktop, Power BI Service, DAX Studio, Tabular Editor, Excel  
-
-### Secondary Skills  
-- Power Automate, Power Apps, Python  
-
-### Databases Used  
-- Azure, Synapse, SQL, Teradata, SharePoint
-
-### Currently Learning  
-- I’m currently learning **Azure technologies like Azure Synapse, Azure Data Factory**
-
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-### Primary Skills  
 - **Power BI** <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="20" height="20"/>  
 - **DAX** <img src="https://db0dce98.rocketcdn.me/en/files/2023/08/dax-power-bi.png" alt="DAX" width="40" height="20"/>  
 - **SQL** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="20" height="20"/>  
@@ -55,6 +37,9 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 - **Power BI Service** <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Service" width="20" height="20"/>  
 - **SSMS** <img src="https://miro.medium.com/v2/1*-hkzF9m5828c-UIaSQNUug.jpeg" alt="SSMS" width="20" height="20"/>  
 - **Excel** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVxTmB7RKfgAoRTrU36dhDHpbAsPrCQkf6Zs_MFfIrunhg-hRGTs5psju_52K3q4C1hvY&usqp=CAU" alt="Excel" width="20" height="20"/>
+
+### Currently Learning  
+- I’m currently learning **Azure technologies like Azure Synapse, Azure Data Factory**
 
 ### Data Sources Used in Projects  
 - **Azure** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="20"/>  
