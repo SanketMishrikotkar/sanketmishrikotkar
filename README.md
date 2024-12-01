@@ -28,7 +28,7 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 ### Databases Used  
 - Azure, Synapse, SQL, Teradata, SharePoint  
 
----
+**---**
 🌱 I’m currently learning **Azure technologies like Azure Synapse, Azure Data Factory**
 ---
 
