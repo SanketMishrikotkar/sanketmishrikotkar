@@ -26,10 +26,27 @@ I am passionate about solving data challenges, ensuring data reliability, and co
 - Power Automate, Power Apps, Python  
 
 ### Databases Used  
-- Azure, Synapse, SQL, Teradata, SharePoint  
+- Azure, Synapse, SQL, Teradata, SharePoint
 
-**---**
-🌱 I’m currently learning **Azure technologies like Azure Synapse, Azure Data Factory**
+### Currently Learning  
+- I’m currently learning **Azure technologies like Azure Synapse, Azure Data Factory**
+
+---
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+| Sr. No | Technology       | Icon                                                                                           |
+|--------|------------------|------------------------------------------------------------------------------------------------|
+| 1      | Python           | <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> |
+| 2      | Power BI         | <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power-bi" width="40" height="40"/></a> |
+| 3      | SQL              | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a> |
+| 4      | Azure            | <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="azure" width="40" height="40"/></a> |
+| 5      | Power Automate   | <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Power_Automate_logo.svg" alt="power-automate" width="40" height="40"/></a> |
+
+
+
 ---
 
 ## 💼 Experience  
