@@ -1,34 +1,11 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFvJp-tTSedIA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725302490730?e=1738800000&v=beta&t=VDbUmxKQk0ClOu4cqgLKPCeekxw1KikqpWM8qrNO8R4" alt="Profile Picture">
+<img src="https://github.com/user-attachments/assets/25542450-1362-4037-9560-c78bab5f5b35" alt="Profile Picture">
 
 # Sanket Mishrikotkar  
 **Power BI Developer | Data Analyst | Empowering Businesses with Actionable Insights | Expert in DAX, SQL & Data Visualization | Python | Azure | I help Organizations make Data-Driven Decisions**  
 
-<p align="left">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQEOC0_jqUzn_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725204327577?e=1738800000&v=beta&t=75GbBJauga2u8pYTw4Us10pWUtC0Z91gwlJgrxpR3no" alt="Profile Picture" width="190" height="190" style="margin-right: 15px; float: left;">
-  <span>📧 mishrikotkarsanket@gmail.com</span><br>
-  <span>📞 +91–7798260374</span><br>
-  <span>🔗 <a href="https://www.linkedin.com/in/sanketmishrikotkar/">LinkedIn</a></span>
-</p>
-
-
-
-
-<img src="https://media.licdn.com/dms/image/v2/D5603AQEOC0_jqUzn_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725204327577?e=1738800000&v=beta&t=75GbBJauga2u8pYTw4Us10pWUtC0Z91gwlJgrxpR3no" alt="Profile Picture" width="80" height="80">
-
 📧 mishrikotkarsanket@gmail.com  
 📞 +91–7798260374  
 🔗 [LinkedIn](https://www.linkedin.com/in/sanketmishrikotkar/)  
-
-<img src="https://media.licdn.com/dms/image/v2/D5603AQEOC0_jqUzn_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725204327577?e=1738800000&v=beta&t=75GbBJauga2u8pYTw4Us10pWUtC0Z91gwlJgrxpR3no" alt="Profile Picture" width="80" height="80">
-
-
-![Profile Picture](https://avatars.githubusercontent.com/u/57309356?v=4) <!-- Replace this URL with the actual link to your photo -->
-
-![Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQEOC0_jqUzn_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725204327577?e=1738800000&v=beta&t=75GbBJauga2u8pYTw4Us10pWUtC0Z91gwlJgrxpR3no){ width=80 height=80 }
-
-📧 mishrikotkarsanket@gmail.com  
-📞 +91–7798260374  
-🔗 [LinkedIn](#)  
 
 ---
 
